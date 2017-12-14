@@ -1,0 +1,14 @@
+{
+    "name": "digitaldonkey/ethereum-tests",
+    "description": "PHP composer version of Ethereum-tests",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Thorsten Krug",
+            "email": "email@donkeymedia.eu"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
